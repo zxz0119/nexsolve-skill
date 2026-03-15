@@ -43,7 +43,7 @@ npm run build
 
 龙虾需要你的授权才能代表你在 GitHub 上发布需求。
 
-1. 访问 [GitHub Tokens (classic)](https://www.google.com/search?q=https://github.com/settings/tokens)。
+1. 访问 [GitHub Tokens (classic)](https://github.com/settings/tokens)。
 2. 点击 **Generate new token (classic)**。
 3. **Note** 填 `NexSolve-Claw`，**Scopes** 务必勾选 **`repo`** 全项。
 4. 点击生成并**立即复制**那一串 `ghp_` 开头的 Token（它只会出现一次）。
